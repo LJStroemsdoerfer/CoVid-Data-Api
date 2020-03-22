@@ -1,0 +1,17 @@
+Package: coviddatagermany
+Type: Package
+Title: CoVid-19 Data Access for Germany
+Version: 0.0.1
+Author: Lukas Jan Stroemsdoerfer
+Maintainer: Lukas Jan Stroemsdoerfer <ljstroemsdoerfer@gmail.com>
+Description: The package contains the R API to access the data on the german CoVid-19 pandemy. The data is requested from the NPGEO Corona Data Hub.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    dplyr,
+    RJSONIO
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr

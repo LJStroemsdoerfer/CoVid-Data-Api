@@ -134,3 +134,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.Rproj.user
+
+# R package files
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.DS_Store
+*.Rproj
+.DS_Store
+.Rproj.user
