@@ -51,3 +51,8 @@ As soon as you did this, you can use the class by simply importing it from the f
     dataset.get_data(level = "county")
 
 In case you want to work with state level data, you can just <code>level</code> to <code>state</code>. The function will return a <code>pd.DataFrame</code> object that can be accessed by <code>dataset.data</code>.
+
+
+## Credits
+
+At the end, I just want to give credits to the organizers of the #wirvsvirus Hackathon. You guys did a really cool job and this was such a great idea. Many thanks.
